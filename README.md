@@ -1,6 +1,6 @@
 # AI - ChatBot App
 
-How to install?
+\nHow to install?\n
 
   1. Unzip
   2. Open terminal
