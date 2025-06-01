@@ -2,6 +2,7 @@
 
 ## How to install?
 
+  Go to:
   >1. Unzip
   >2. Open terminal
   >3. Go to your path
